@@ -19,6 +19,7 @@ function [] = gen_cloudplot_vocals(filepath, plot_type)
 %
 % Functions Used: gen_netcdfvariablenames.m
 %                 gen_readnetcdf2array_v3.m
+%                 LCH_Spiral.m
 %
 % Required Paths: N/A
 %
